@@ -24,6 +24,11 @@ header {
     background-image: url("piccc.jpg");
     background-size: cover;
 }
+
+img {
+  border-radius: 50%;
+}
+
 .button {
   background-color: #4CAF50;
   border: none;
